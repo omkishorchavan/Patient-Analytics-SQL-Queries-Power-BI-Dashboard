@@ -1,4 +1,4 @@
-🏥 Patient Insights Dashboard — Healthcare Data Analysis
+# 🏥 Patient Insights Dashboard — Healthcare Data Analysis
 📊 Project Overview
 
 This project analyzes 5,000+ hospital patient records to uncover key insights on:
